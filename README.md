@@ -67,9 +67,9 @@ O PHPUnit irá rodar todos os testes presentes em `tests/CalculatorTest.php` e m
 
 ---
 
-## Autor
+## Autor - Jimmy Castilho
 
-Jimmy Castilho
+<br>
 E-mail: jimmycastilho555@gmail.com
 
 ---
